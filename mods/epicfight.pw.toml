@@ -1,0 +1,12 @@
+name = "Epic Fight"
+filename = "epic-fight-20.14.17-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8049/910/epic-fight-20.14.17-mc1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "69566cf70ae2d91d3f2564c608f014c87e290cef6215c2a27719851165485f73"
+
+[update.curseforge]
+file-id = 8049910
+project-id = 405076

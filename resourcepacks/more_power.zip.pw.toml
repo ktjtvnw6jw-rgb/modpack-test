@@ -1,0 +1,8 @@
+name = "resourcepacks/more_power.zip"
+filename = "more_power.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7690/641/more_power.zip"
+hash-format = "sha256"
+hash = "1186754359fea8479c04ffc05535f5a73407ddff58bc868c78fd1b0fa744fe82"

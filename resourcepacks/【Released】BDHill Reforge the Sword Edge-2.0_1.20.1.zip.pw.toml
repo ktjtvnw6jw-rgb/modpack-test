@@ -1,0 +1,8 @@
+name = "resourcepacks/【Released】BDHill Reforge the Sword Edge-2.0_1.20.1.zip"
+filename = "【Released】BDHill Reforge the Sword Edge-2.0_1.20.1.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7631/787/%e3%80%90Released%e3%80%91BDHill%20Reforge%20the%20Sword%20Edge-2.0_1.20.1.zip"
+hash-format = "sha256"
+hash = "4d0fd37a123eb4835145aaba83eddeb403c545e0ab665a1f841ac8f64f37878d"

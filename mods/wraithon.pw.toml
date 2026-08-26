@@ -1,0 +1,12 @@
+name = "Epic Fight - The Wraithon"
+filename = "wraithon-forge1.20.1-1.1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7702/162/wraithon-forge1.20.1-1.1.11.jar"
+hash-format = "sha256"
+hash = "f059eda3cf27634323a1571bfb219ea8df2537ba6a199ecbf4dce26105ebebe0"
+
+[update.curseforge]
+file-id = 7702162
+project-id = 1354901

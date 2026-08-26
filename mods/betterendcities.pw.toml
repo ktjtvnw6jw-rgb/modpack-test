@@ -1,0 +1,12 @@
+name = "Better End Cities - Vanilla"
+filename = "betterendcities-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5238/542/betterendcities-1.0.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "162853b270c7b47395704025f7e4e6ff2983c3e19fc6a806f0fc04ab6e422a29"
+
+[update.curseforge]
+file-id = 5238542
+project-id = 959431

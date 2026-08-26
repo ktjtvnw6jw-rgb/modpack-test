@@ -1,0 +1,12 @@
+name = "FastEvent"
+filename = "FastEvent-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6527/838/FastEvent-1.20.1-1.1.1.jar"
+hash-format = "sha256"
+hash = "fad6bd3c5d882a924934f119d4df83570c24610a06c4f76ac2c36b487edc7727"
+
+[update.curseforge]
+file-id = 6527838
+project-id = 1249053

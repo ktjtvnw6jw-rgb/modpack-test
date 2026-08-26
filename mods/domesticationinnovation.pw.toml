@@ -1,0 +1,12 @@
+name = "Domestication Innovation"
+filename = "domesticationinnovation-1.7.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4911/955/domesticationinnovation-1.7.1-1.20.1.jar"
+hash-format = "sha256"
+hash = "00f20efea12ea981b8d75e257a136c08e0c00c324554e69cf20193376c942e97"
+
+[update.curseforge]
+file-id = 4911955
+project-id = 591149

@@ -1,0 +1,12 @@
+name = "Ash Of Sin: No More Too Many Structures"
+filename = "Ash Of Sin-No More Too Many Structures-1.20.1-1.0.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8187/124/Ash%20Of%20Sin-No%20More%20Too%20Many%20Structures-1.20.1-1.0.13.jar"
+hash-format = "sha256"
+hash = "4aeb623267e3c87a4adb5c3989d6db8b245cc7bd7224622986ec6b7680fb679f"
+
+[update.curseforge]
+file-id = 8187124
+project-id = 1499971

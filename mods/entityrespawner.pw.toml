@@ -1,0 +1,12 @@
+name = "Entity Respawner"
+filename = "entityrespawner-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7971/871/entityrespawner-1.1.0.jar"
+hash-format = "sha256"
+hash = "3a05e0add7c3c1cf143a539ed209e8a72f1f81608dd0318fb6f90bafe4de9f7e"
+
+[update.curseforge]
+file-id = 7971871
+project-id = 1363764

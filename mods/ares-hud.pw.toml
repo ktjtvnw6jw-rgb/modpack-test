@@ -1,0 +1,12 @@
+name = "Ares-HUD"
+filename = "ares_hud-1.2.3-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8421/842/ares_hud-1.2.3-all.jar"
+hash-format = "sha256"
+hash = "7340d429d8024b65e5b746b81d7aaca3ffa584fc1564e3aab8efcb46e76f70ba"
+
+[update.curseforge]
+file-id = 8421842
+project-id = 1477275

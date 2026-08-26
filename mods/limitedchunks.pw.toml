@@ -1,0 +1,12 @@
+name = "Limited Chunkloading - Chunk cleanup"
+filename = "limitedchunks-1.20.1-4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5387/592/limitedchunks-1.20.1-4.1.jar"
+hash-format = "sha256"
+hash = "5ff4d22551dcd74680f5da79c9055faae44dfc0c5348c273447200e464eeac59"
+
+[update.curseforge]
+file-id = 5387592
+project-id = 456640

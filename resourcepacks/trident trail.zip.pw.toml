@@ -1,0 +1,8 @@
+name = "resourcepacks/trident trail.zip"
+filename = "trident trail.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7355/973/trident%20trail.zip"
+hash-format = "sha256"
+hash = "f3ee1a91e756979d00a53d953c29e6f70d1e68d5cc9cf9805e33fb1bacc67b09"

@@ -1,0 +1,8 @@
+name = "resourcepacks/true_nitwit_texture.zip"
+filename = "true_nitwit_texture.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7174/830/true_nitwit_texture.zip"
+hash-format = "sha256"
+hash = "ec20a52d3309f3b607dd9d1b3be62fb071aa66fe52601cc7dc98a835a9d2ba99"

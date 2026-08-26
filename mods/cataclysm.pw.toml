@@ -1,0 +1,12 @@
+name = "L_Ender 's Cataclysm"
+filename = "L_Enders_Cataclysm-3.27-curios-fix.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7934/870/L_Enders_Cataclysm-3.27-curios-fix.jar"
+hash-format = "sha256"
+hash = "c8fae93cf480eb3b94e988d279ef9c03147866a431c390ac816807f6eb830962"
+
+[update.curseforge]
+file-id = 7934870
+project-id = 551586

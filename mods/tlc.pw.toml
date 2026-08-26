@@ -1,0 +1,12 @@
+name = "The Lost Castle [NeoForge/Fabric]"
+filename = "tlc_forge-1.0.3-R-1.20.X.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4614/797/tlc_forge-1.0.3-R-1.20.X.jar"
+hash-format = "sha256"
+hash = "bb7da52ed3f577b7b1d16bd97951d1cc15552195cc494a7efe35d109198d9878"
+
+[update.curseforge]
+file-id = 4614797
+project-id = 687118

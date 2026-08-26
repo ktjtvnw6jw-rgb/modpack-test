@@ -1,0 +1,12 @@
+name = "Default Options"
+filename = "defaultoptions-forge-1.20.1-18.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6972/483/defaultoptions-forge-1.20.1-18.0.4.jar"
+hash-format = "sha256"
+hash = "88b89d7734a4f5d99e9464fc368428a72e5052c3570865a954cf74ef98a2581b"
+
+[update.curseforge]
+file-id = 6972483
+project-id = 232131

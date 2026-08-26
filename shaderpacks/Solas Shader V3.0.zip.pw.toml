@@ -1,0 +1,8 @@
+name = "shaderpacks/Solas Shader V3.0.zip"
+filename = "Solas Shader V3.0.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7019/905/Solas%20Shader%20V3.0.zip"
+hash-format = "sha256"
+hash = "70761ed8a7b540c4df60e6775100415fa0de0f24f57c6182d09eab6323c4c78c"

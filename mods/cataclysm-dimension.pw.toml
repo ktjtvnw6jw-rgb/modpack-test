@@ -1,0 +1,12 @@
+name = "Cataclysm Dimensions"
+filename = "cataclysm_dimension-forge1.20.1-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7748/30/cataclysm_dimension-forge1.20.1-1.6.2.jar"
+hash-format = "sha256"
+hash = "1666d567b095123de74fa1022d4dc6850cd04aae738dd6bf1e9707a39588ea4b"
+
+[update.curseforge]
+file-id = 7748030
+project-id = 1303494

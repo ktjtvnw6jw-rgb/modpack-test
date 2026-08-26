@@ -1,0 +1,8 @@
+name = "resourcepacks/MandalasGUI+Dakmode_1.21.8_v2.5.zip"
+filename = "MandalasGUI+Dakmode_1.21.8_v2.5.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7564/643/MandalasGUI%2bDakmode_1.21.8_v2.5.zip"
+hash-format = "sha256"
+hash = "a4f90e90b406c1cceb7ffd29d9db647cdc86d307e0f7b22df5478e56862f6bd4"

@@ -1,0 +1,12 @@
+name = "CustomSkinLoader"
+filename = "CustomSkinLoader_ForgeV2-14.28.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7822/525/CustomSkinLoader_ForgeV2-14.28.jar"
+hash-format = "sha256"
+hash = "2edbc47d4cb378d4cab9a7968b578e9f9dd4aad1dcb7400a9b7af29eda89bd3f"
+
+[update.curseforge]
+file-id = 7822525
+project-id = 286924

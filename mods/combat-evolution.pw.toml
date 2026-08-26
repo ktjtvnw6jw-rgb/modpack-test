@@ -1,0 +1,12 @@
+name = "Combat Evolution"
+filename = "CombatEvolution-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8368/239/CombatEvolution-2.2.0.jar"
+hash-format = "sha256"
+hash = "74b0a0b567897d4f7fea5faf97dd2c85fa5a31cdb540c7cb90c48ba575222b77"
+
+[update.curseforge]
+file-id = 8368239
+project-id = 1377795

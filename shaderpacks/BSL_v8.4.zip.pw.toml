@@ -1,0 +1,8 @@
+name = "shaderpacks/BSL_v8.4.zip"
+filename = "BSL_v8.4.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5905/130/BSL_v8.4.zip"
+hash-format = "sha256"
+hash = "f57821c6f0d744ca72b41d3ad9762452e53d5b0eb3a888c0636ad29b7d0d1548"

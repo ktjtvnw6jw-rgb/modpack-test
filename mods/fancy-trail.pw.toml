@@ -1,0 +1,12 @@
+name = "Fancy Trail"
+filename = "Fancy-Trail1.20.1-1.2.3-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8250/99/Fancy-Trail1.20.1-1.2.3-all.jar"
+hash-format = "sha256"
+hash = "9141b5005f236c729148ad36bb2f5900727443b9f0d40dcfd38a8c2316180b73"
+
+[update.curseforge]
+file-id = 8250099
+project-id = 1380365

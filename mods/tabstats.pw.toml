@@ -1,0 +1,12 @@
+name = "Tab Stats"
+filename = "Tab-Stats-1.20-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4594/930/Tab-Stats-1.20-1.0.5.jar"
+hash-format = "sha256"
+hash = "d7bfb7d75a1807d7633a97de7e418f2d6ea54b1397085f90aa6026c97f9b759f"
+
+[update.curseforge]
+file-id = 4594930
+project-id = 521717

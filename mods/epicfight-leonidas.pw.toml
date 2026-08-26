@@ -1,0 +1,12 @@
+name = "Epic Fight - The Leonidas"
+filename = "epicfight_leonidas-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7619/585/epicfight_leonidas-1.0.1.jar"
+hash-format = "sha256"
+hash = "1a6ee8b1867caedbfb27798ffac09e16e9632fcc4514ede8098ba7961bf226f7"
+
+[update.curseforge]
+file-id = 7619585
+project-id = 1445144

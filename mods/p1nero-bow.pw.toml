@@ -1,0 +1,12 @@
+name = "P1nero's Epic Bow"
+filename = "p1nero_bow-forge1.20.1-20.14.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7725/196/p1nero_bow-forge1.20.1-20.14.1.6.jar"
+hash-format = "sha256"
+hash = "0fdeae02be1aefbd7e965ae832efdaa3d51fe7200caeb2d790ddbad6e15dccf9"
+
+[update.curseforge]
+file-id = 7725196
+project-id = 1338443

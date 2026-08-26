@@ -1,0 +1,12 @@
+name = "Hunger Strike"
+filename = "HungerStrike-1.20.1-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5574/481/HungerStrike-1.20.1-8.0.0.jar"
+hash-format = "sha256"
+hash = "b9cc8763c8898bf33a8771c3245fa9dba9524ec92e532461fe7f2ccdbf8f09b9"
+
+[update.curseforge]
+file-id = 5574481
+project-id = 75334

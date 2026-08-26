@@ -1,0 +1,12 @@
+name = "Epic Fight - Indestructible"
+filename = "indestructible-20.13.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7125/700/indestructible-20.13.0.jar"
+hash-format = "sha256"
+hash = "6de25c515f8284febb9e2f0b2d35e0ecad5a520cde279c424d8a6f2be1554685"
+
+[update.curseforge]
+file-id = 7125700
+project-id = 915201

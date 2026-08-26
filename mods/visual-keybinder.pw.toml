@@ -1,0 +1,12 @@
+name = "Raw's Visual keybinder"
+filename = "visual_keybinder-1.20.1 - 0.1.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7776/129/visual_keybinder-1.20.1%20-%200.1.12.jar"
+hash-format = "sha256"
+hash = "9dadb23df8b1b232499565bc486220af6f81f62d2bfe6fe6e9deeb9502df0847"
+
+[update.curseforge]
+file-id = 7776129
+project-id = 1020759

@@ -1,0 +1,12 @@
+name = "lazyyyyy"
+filename = "lazyyyyy-lexforge-core-0.14.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7010/786/lazyyyyy-lexforge-core-0.14.19.jar"
+hash-format = "sha256"
+hash = "5a34ec4c93990f46813c6bde29fd401c1b2954e3d6f8872f6d861a2a0719801e"
+
+[update.curseforge]
+file-id = 7010786
+project-id = 1142812

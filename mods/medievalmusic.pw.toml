@@ -1,0 +1,12 @@
+name = "Medieval Music"
+filename = "zmedievalmusic-1.20.1-2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6863/96/zmedievalmusic-1.20.1-2.2.jar"
+hash-format = "sha256"
+hash = "afe5d3d0b6623fb2df6622a76e8fc93d8ab8b32cd9384ca138dec1944049ac84"
+
+[update.curseforge]
+file-id = 6863096
+project-id = 521932

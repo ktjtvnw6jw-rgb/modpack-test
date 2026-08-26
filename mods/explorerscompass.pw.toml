@@ -1,0 +1,12 @@
+name = "Explorer's Compass Edited"
+filename = "explorerscompass-edited-1.20.1-1.4.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7175/635/explorerscompass-edited-1.20.1-1.4.0-forge.jar"
+hash-format = "sha256"
+hash = "216e13b90e5bd04595f33aa674f2496130019a43b8631f56a3ff8bc4cf31e1ac"
+
+[update.curseforge]
+file-id = 7175635
+project-id = 1203888

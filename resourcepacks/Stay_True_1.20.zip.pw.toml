@@ -1,0 +1,8 @@
+name = "resourcepacks/Stay_True_1.20.zip"
+filename = "Stay_True_1.20.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4624/707/Stay_True_1.20.zip"
+hash-format = "sha256"
+hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"

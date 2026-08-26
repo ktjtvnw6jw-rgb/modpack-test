@@ -1,0 +1,12 @@
+name = "TheCasketOfRrveriesBosses"
+filename = "tcr_bosses-1.1.11-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8187/619/tcr_bosses-1.1.11-all.jar"
+hash-format = "sha256"
+hash = "abfe644256b6800c7d85c297da73c6ab182da450e49f24336534988229ba3d3f"
+
+[update.curseforge]
+file-id = 8187619
+project-id = 1387898

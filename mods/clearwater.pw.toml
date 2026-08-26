@@ -1,0 +1,12 @@
+name = "Clear Water"
+filename = "Clear-Water-2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4744/630/Clear-Water-2.1.jar"
+hash-format = "sha256"
+hash = "39a6f2a2451e0f7512c4ab8ba2c6c989b39dab626d340b53c0c7b6ca0ba4c6f3"
+
+[update.curseforge]
+file-id = 4744630
+project-id = 286098

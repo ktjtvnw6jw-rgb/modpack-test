@@ -1,0 +1,12 @@
+name = "P1nero's Primal Arena Dimension"
+filename = "pbf1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7689/122/pbf1-1.1.2.jar"
+hash-format = "sha256"
+hash = "a9bcccdb683518f99a77f81ec2136a9db981a09313754002ec3fc2466d56217a"
+
+[update.curseforge]
+file-id = 7689122
+project-id = 1369741

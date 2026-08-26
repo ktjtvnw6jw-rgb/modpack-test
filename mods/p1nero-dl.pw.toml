@@ -1,0 +1,12 @@
+name = "P1nero's Dialogue Lib"
+filename = "p1neros-dialogue-lib-2.3.0-mc1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7706/756/p1neros-dialogue-lib-2.3.0-mc1.20.1-forge.jar"
+hash-format = "sha256"
+hash = "a7050b148de4c8e558c1b83cf58385b15d6118771ae55b93d85fc11f0d6cbc4e"
+
+[update.curseforge]
+file-id = 7706756
+project-id = 1274526

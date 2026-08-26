@@ -1,0 +1,12 @@
+name = "Epic Fight - The Arachne"
+filename = "epicfight_arachne-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7529/944/epicfight_arachne-1.0.0.jar"
+hash-format = "sha256"
+hash = "1dd8683b53e5fa3b021939163e87f06ea4872aef5ab77f2e60c7496ea6be35d4"
+
+[update.curseforge]
+file-id = 7529944
+project-id = 1445154

@@ -1,0 +1,12 @@
+name = "Cinematic Cataclysm"
+filename = "cinematiccataclysm-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7817/167/cinematiccataclysm-1.0.1-1.20.1.jar"
+hash-format = "sha256"
+hash = "2bd504cd4fa0d1cd8981d4e4f26a37a8bb0e900b8011b3cbb0ec048f824eb139"
+
+[update.curseforge]
+file-id = 7817167
+project-id = 1399324

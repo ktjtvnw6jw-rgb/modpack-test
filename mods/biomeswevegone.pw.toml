@@ -1,0 +1,12 @@
+name = "Oh The Biomes We've Gone"
+filename = "Oh-The-Biomes-Weve-Gone-Forge-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7759/426/Oh-The-Biomes-Weve-Gone-Forge-1.7.5.jar"
+hash-format = "sha256"
+hash = "3aed757e3509013d7c32b0b707c8b3e070248722f02e953293cf8e8325b8363f"
+
+[update.curseforge]
+file-id = 7759426
+project-id = 1070751

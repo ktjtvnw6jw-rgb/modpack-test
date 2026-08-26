@@ -1,0 +1,12 @@
+name = "Fluid Tick Structure Processor"
+filename = "fluid-tick-structure-processor-0.1.0.dirty-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7133/622/fluid-tick-structure-processor-0.1.0.dirty-forge-1.20.1.jar"
+hash-format = "sha256"
+hash = "b79d588aefb76de6bdf73ef2ab48b7a60223b60aff40676ffe033442c4089519"
+
+[update.curseforge]
+file-id = 7133622
+project-id = 1369713

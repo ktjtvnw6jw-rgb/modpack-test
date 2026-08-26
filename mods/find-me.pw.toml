@@ -1,0 +1,12 @@
+name = "Find me"
+filename = "Find me-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8379/239/Find%20me-1.2.4.jar"
+hash-format = "sha256"
+hash = "4ee9ba85da5469f38ae9a774dba7c1e5d6c7daab22d761fba19f0adcc3eb8fed"
+
+[update.curseforge]
+file-id = 8379239
+project-id = 1572205

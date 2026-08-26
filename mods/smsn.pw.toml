@@ -1,0 +1,12 @@
+name = "Save My Shaky Network"
+filename = "smsn-forge-1.4.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8012/309/smsn-forge-1.4.1-1.20.1.jar"
+hash-format = "sha256"
+hash = "b076d167ac860456dc6a2bc021c11a5049ef544c0d540facdf4461322551edba"
+
+[update.curseforge]
+file-id = 8012309
+project-id = 1129397

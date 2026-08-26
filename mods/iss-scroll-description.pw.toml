@@ -1,0 +1,12 @@
+name = "Iron's Spells 'n Spellbooks - Scroll Description"
+filename = "iss_scroll_description-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7576/978/iss_scroll_description-1.0.0.jar"
+hash-format = "sha256"
+hash = "2e120b4cf99f93c9cad500037025a4cddbb4d8b6f9511017040153ece2c5b5a3"
+
+[update.curseforge]
+file-id = 7576978
+project-id = 1454137

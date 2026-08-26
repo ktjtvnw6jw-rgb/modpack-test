@@ -1,0 +1,12 @@
+name = "Just Enough Characters"
+filename = "jecharacters-1.20.1-forge-4.6.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7411/324/jecharacters-1.20.1-forge-4.6.3.jar"
+hash-format = "sha256"
+hash = "3a08f732a13dcf0e9209ba135d3e8691667e9ad3f164e1f1c2331f6669d1b1fb"
+
+[update.curseforge]
+file-id = 7411324
+project-id = 250702

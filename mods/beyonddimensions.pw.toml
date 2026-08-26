@@ -1,0 +1,12 @@
+name = "Beyond Dimensions"
+filename = "beyonddimensions-1.20.1-forge-0.7.19.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8142/917/beyonddimensions-1.20.1-forge-0.7.19.jar"
+hash-format = "sha256"
+hash = "44e003895bd5fca443494d045a994c9693380abf099b5cf91c2b5ca0cf6982df"
+
+[update.curseforge]
+file-id = 8142917
+project-id = 1222890

@@ -1,0 +1,12 @@
+name = "(Sodium) Chloride"
+filename = "chloride-FORGE-mc1.20.1-v1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7378/10/chloride-FORGE-mc1.20.1-v1.7.5.jar"
+hash-format = "sha256"
+hash = "ed964374effd0c196b01c0a5ed4f275fccecbc6c1f540bbafe44926ce5bcc4fe"
+
+[update.curseforge]
+file-id = 7378010
+project-id = 931925

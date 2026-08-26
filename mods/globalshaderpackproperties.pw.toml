@@ -1,0 +1,12 @@
+name = "Global Shaderpack Properties"
+filename = "globalshaderpackproperties-1.1.0-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7369/913/globalshaderpackproperties-1.1.0-all.jar"
+hash-format = "sha256"
+hash = "da81b47c01ec26a72c95dc4829e85b9afc98e719e1f4d637ff010237aee3e5b5"
+
+[update.curseforge]
+file-id = 7369913
+project-id = 1344473

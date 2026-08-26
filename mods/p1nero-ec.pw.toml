@@ -1,0 +1,12 @@
+name = "P1nero's Epic X Cataclysm"
+filename = "p1nero_ec-20.14.0.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8212/859/p1nero_ec-20.14.0.9.jar"
+hash-format = "sha256"
+hash = "a079ae0561c6526c89ead33211c04df3518d6e038e27d80f23cee88ac9d5b69d"
+
+[update.curseforge]
+file-id = 8212859
+project-id = 1325059

@@ -1,0 +1,12 @@
+name = "Kill-Cam"
+filename = "killcam-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7787/111/killcam-1.0.3.jar"
+hash-format = "sha256"
+hash = "4cee7a89747aafe3097952c5a5330acb92b6b2dada3f8819468689d6a7ef2cda"
+
+[update.curseforge]
+file-id = 7787111
+project-id = 1489164

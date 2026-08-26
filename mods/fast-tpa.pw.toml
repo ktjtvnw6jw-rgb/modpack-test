@@ -1,0 +1,12 @@
+name = "Fast TPA"
+filename = "fast_tpa-forge1.20.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7821/88/fast_tpa-forge1.20.1-1.3.0.jar"
+hash-format = "sha256"
+hash = "7485d9d2419e1b593f3e51aa95cd3c225b90743d16c6770c15328134477968ea"
+
+[update.curseforge]
+file-id = 7821088
+project-id = 1122207

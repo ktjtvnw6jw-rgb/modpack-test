@@ -1,0 +1,8 @@
+name = "resourcepacks/xali's Enhanced Vanilla -1.11.2b-rev.54d51d4.zip"
+filename = "xali's Enhanced Vanilla -1.11.2b-rev.54d51d4.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5596/851/xali%27s%20Enhanced%20Vanilla%20-1.11.2b-rev.54d51d4.zip"
+hash-format = "sha256"
+hash = "ae69dcb419174a645a42eb3655da96cc51da9db19d3c5edbcd332071ed8561df"

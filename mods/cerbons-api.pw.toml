@@ -1,0 +1,12 @@
+name = "CERBON's API [Forge | Fabric | NeoForge]"
+filename = "CerbonsAPI-Forge-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5050/80/CerbonsAPI-Forge-1.20.1-1.1.0.jar"
+hash-format = "sha256"
+hash = "54a0a20da56ab1af2d0d7f5cf1133c059a7523485d567521084f822e81505dfb"
+
+[update.curseforge]
+file-id = 5050080
+project-id = 955605

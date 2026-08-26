@@ -1,0 +1,12 @@
+name = "GUHAO's VIX"
+filename = "VIX-1.1.0-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8401/57/VIX-1.1.0-all.jar"
+hash-format = "sha256"
+hash = "fac6590cfe18cd7239b07c33eec0334e93a838e40c10051734c8b23ea4dd7dcb"
+
+[update.curseforge]
+file-id = 8401057
+project-id = 1531111

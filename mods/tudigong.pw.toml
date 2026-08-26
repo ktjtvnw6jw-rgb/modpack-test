@@ -1,0 +1,12 @@
+name = "TuDiGong : Wayfinder"
+filename = "tudigong-forge1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8525/246/tudigong-forge1.20.1-1.4.1.jar"
+hash-format = "sha256"
+hash = "fe3c10522019c33f3b8bc7992dd1c88390b20a51c82c6fd25e2bdca09a4d6b66"
+
+[update.curseforge]
+file-id = 8525246
+project-id = 1350265

@@ -1,0 +1,12 @@
+name = "No Worldgen Warning"
+filename = "noworldgenwarning-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7986/935/noworldgenwarning-1.0.1.jar"
+hash-format = "sha256"
+hash = "e92b73f9a7b9a29de872d543f721e5593513c3541d11850495ff99d419a19d57"
+
+[update.curseforge]
+file-id = 7986935
+project-id = 1463007

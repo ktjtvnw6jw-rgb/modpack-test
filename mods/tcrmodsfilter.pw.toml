@@ -1,0 +1,12 @@
+name = "TCRMODSFilter"
+filename = "tcrmodfilter-1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7797/342/tcrmodfilter-1.0.6.jar"
+hash-format = "sha256"
+hash = "23430c3b43ca97b3329e32a7573a741176e0aaa898b3e92602810474fe5a3fc8"
+
+[update.curseforge]
+file-id = 7797342
+project-id = 1385997

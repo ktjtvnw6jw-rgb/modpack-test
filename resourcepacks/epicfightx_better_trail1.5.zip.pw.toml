@@ -1,0 +1,8 @@
+name = "resourcepacks/epicfightx_better_trail1.5.zip"
+filename = "epicfightx_better_trail1.5.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7690/496/epicfightx_better_trail1.5.zip"
+hash-format = "sha256"
+hash = "76752f36d4173743fb43d8d80128da45da84af2b053e2256ac6fdcef60ff5a80"

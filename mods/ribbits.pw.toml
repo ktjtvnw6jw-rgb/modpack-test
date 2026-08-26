@@ -1,0 +1,12 @@
+name = "Ribbits"
+filename = "Ribbits-1.20.1-Forge-3.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7354/928/Ribbits-1.20.1-Forge-3.0.5.jar"
+hash-format = "sha256"
+hash = "e04aa665df7e96844fe8833f29cc343feefac8ad7b949399d7b4a60475123e2b"
+
+[update.curseforge]
+file-id = 7354928
+project-id = 622967

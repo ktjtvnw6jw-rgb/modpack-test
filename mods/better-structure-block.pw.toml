@@ -1,0 +1,12 @@
+name = "P1nero's Better Structure Block"
+filename = "better_structure_block-forge1.20.1-2.1.0-all.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7828/543/better_structure_block-forge1.20.1-2.1.0-all.jar"
+hash-format = "sha256"
+hash = "50740c77a5b9ef33b2b912e586d33d513ad38e26e088db7400a81adfcdca7476"
+
+[update.curseforge]
+file-id = 7828543
+project-id = 970671

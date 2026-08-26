@@ -1,0 +1,8 @@
+name = "resourcepacks/OurStory FTB Theme - 2.0 - 1.20.1.zip"
+filename = "OurStory FTB Theme - 2.0 - 1.20.1.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7340/950/OurStory%20FTB%20Theme%20-%202.0%20-%201.20.1.zip"
+hash-format = "sha256"
+hash = "bf9b8a101cecbbba47f8a6de32d4ab8b2a4c742eedd488722ab2a354646debcd"

@@ -1,0 +1,12 @@
+name = "Epic Fight - Better lock on"
+filename = "betterlockon-2.0.11-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8332/801/betterlockon-2.0.11-forge.jar"
+hash-format = "sha256"
+hash = "0a0718eedeeeb51a9b962a3ed95d275be80ff6cc2a7c8966584d39d9cd4f17fa"
+
+[update.curseforge]
+file-id = 8332801
+project-id = 1339577

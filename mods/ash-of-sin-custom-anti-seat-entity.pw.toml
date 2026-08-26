@@ -1,0 +1,12 @@
+name = "Ash Of Sin: Custom Anti Seat Entity"
+filename = "Ash Of Sin-Custom Anti Seat Entity-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7197/156/Ash%20Of%20Sin-Custom%20Anti%20Seat%20Entity-1.20.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "54a66eda5af6088235ac9a3a5c1b8991bedadfdbf3dcf91b196b025af8f95680"
+
+[update.curseforge]
+file-id = 7197156
+project-id = 981547

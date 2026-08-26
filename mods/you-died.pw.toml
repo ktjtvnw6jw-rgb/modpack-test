@@ -1,0 +1,12 @@
+name = "You Died"
+filename = "YouDied-1.20-3.0.0.17-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/4574/925/YouDied-1.20-3.0.0.17-forge.jar"
+hash-format = "sha256"
+hash = "d8aeda20ee3f49d7ba607243e75781e3117c24742163f435b0c8ec7ccc141ee4"
+
+[update.curseforge]
+file-id = 4574925
+project-id = 582464

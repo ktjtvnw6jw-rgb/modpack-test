@@ -1,0 +1,12 @@
+name = "Epic Fight: Skill Tree"
+filename = "epicfight-skilltree-forge-20.2.9-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8668/873/epicfight-skilltree-forge-20.2.9-1.20.1.jar"
+hash-format = "sha256"
+hash = "12981480a6eb8c0a47d0c7f0da4e594349587def9b7fc7e0fdba91e79cb1fe8f"
+
+[update.curseforge]
+file-id = 8668873
+project-id = 1295882

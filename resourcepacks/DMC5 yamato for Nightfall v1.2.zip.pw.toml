@@ -1,0 +1,8 @@
+name = "resourcepacks/DMC5 yamato for Nightfall v1.2.zip"
+filename = "DMC5 yamato for Nightfall v1.2.zip"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7432/571/DMC5%20yamato%20for%20Nightfall%20v1.2.zip"
+hash-format = "sha256"
+hash = "9171601622529fcf4a153543691adcd2764fd9e323709ff0a4f3f348f18d8fd5"
