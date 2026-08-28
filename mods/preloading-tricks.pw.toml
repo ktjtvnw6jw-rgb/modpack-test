@@ -1,0 +1,12 @@
+name = "Preloading Tricks"
+filename = "preloading-tricks-3.5.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7905/33/preloading-tricks-3.5.10.jar"
+hash-format = "sha256"
+hash = "5c514001423f979e2caace7f3543cf995b4197047ac3c1f3980fe6390d9b5c1f"
+
+[update.curseforge]
+file-id = 7905033
+project-id = 1372086

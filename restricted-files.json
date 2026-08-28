@@ -14,11 +14,11 @@
       "version": "1.0.3"
     },
     {
-      "browserUrl": "https://www.curseforge.com/minecraft/mc-mods/ati-structures-datapack-vanilla/download/6727019",
+      "browserUrl": "https://www.curseforge.com/minecraft/mc-mods/ati-structures-datapack-vanilla/download/8383137",
       "displayName": "ATi Structures - Vanilla Edition",
       "expectedFilename": "ATi Structures Vanilla V1.4.5.jar",
-      "fileId": "6727019",
-      "loader": "Fabric",
+      "fileId": "8383137",
+      "loader": "Forge",
       "minecraftVersion": null,
       "projectId": "1158208",
       "sha256": "cc64b50e80c03bf5e0abd1c6ba76c87397b972adcf678de87d81d85dd7244098",
@@ -135,7 +135,7 @@
       "displayName": "Trek",
       "expectedFilename": "trek-B0.6.jar",
       "fileId": "7715726",
-      "loader": "Fabric",
+      "loader": "Forge",
       "minecraftVersion": null,
       "projectId": "1418999",
       "sha256": "78c27ae931278eca9e2fd86e73b08f44ff5962cac4d1a3f701a26c257d6e32ef",

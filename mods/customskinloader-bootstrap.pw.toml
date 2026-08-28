@@ -1,0 +1,12 @@
+name = "CustomSkinLoader"
+filename = "CustomSkinLoader_Universal-15.0.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/8291/183/CustomSkinLoader_Universal-15.0.1.jar"
+hash-format = "sha256"
+hash = "026d8b38ea93edccd647f60568193e79801a377b7bd4e916dcfc0d5482b767fc"
+
+[update.curseforge]
+file-id = 8291183
+project-id = 286924
