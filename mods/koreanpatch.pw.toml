@@ -1,0 +1,8 @@
+name = "Korean Patch"
+filename = "koreanpatch-forge-1.9.6+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyulnpBL/versions/6R6bSXKY/koreanpatch-forge-1.9.6%2Bmc1.20.1.jar?mr_download_reason=standalone&mr_game_version=1.20.1&mr_loader=forge"
+hash-format = "sha256"
+hash = "19a3390c1852dea94b32422e280ee70aa1686e62a1a00a07e18e5747b02c1bd7"

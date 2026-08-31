@@ -1,11 +1,11 @@
 name = "The Casket of Reveries "
-version = "1.0.2"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a0564fb54477b0028f6d1508ffa61c038dbe37863c9d1fd3b443e3847cb2891a"
+hash = "aa7b1deafcb9aa4cac4f945e486952d9b9cc456e4873dfcbaa0eada6b4a7803c"
 
 [versions]
 minecraft = "1.20.1"
